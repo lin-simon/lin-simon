@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=lin-simon&style=flat-square&color=blue" alt=""/> 
 </div>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lin-simon"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lin-simon&theme=dark"/></a>
 </p>
 <h1 align="center">
   my tech stack:
