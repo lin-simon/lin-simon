@@ -11,7 +11,7 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=lin-simon&style=flat-square&color=blue" alt=""/> 
 </div>
-[(https://streak-stats.demolab.com/?user=lin-simon)](https://git.io/streak-stats)
+https://streak-stats.demolab.com/?user=lin-simon
 
 <h1 align="center">
   my tech stack:
