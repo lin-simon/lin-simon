@@ -11,7 +11,7 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=lin-simon&style=flat-square&color=blue" alt=""/> 
 </div>
-https://streak-stats.demolab.com/?user=lin-simon
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lin-simon&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="lin-simon" /></p>
 
 <h1 align="center">
   my tech stack:
