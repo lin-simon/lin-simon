@@ -29,7 +29,7 @@
 </div>
   
 <h1 align="center">
-  check out my resume:
+  resume/cv:
 </h1>
 <div id="resume" align="center">
   <a href="https://github.com/lin-simon/lin-simon.github.io/blob/main/Assets/Simons_Resume.pdf">
