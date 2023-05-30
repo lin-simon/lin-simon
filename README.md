@@ -33,6 +33,6 @@
 </h1>
 <div id="resume" align="center">
   <a href="https://github.com/lin-simon/lin-simon.github.io/blob/main/Assets/Simons_Resume.pdf">
-    <img src="https://img.icons8.com/plasticine/0.5x/resume.png" target= "_blank" alt="SimonsResume"/>
+    <img src="https://img.icons8.com/plasticine/0.5x/resume.png" target= "_blank" alt="SimonsResume" width="80" height="80"/>
   </a>
 </div>
