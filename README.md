@@ -26,7 +26,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div
+  
+ <h1 align="center">
+  check out my resume:
+</h1>
 <div id="resume" align="center">
   <a href="https://github.com/lin-simon/lin-simon.github.io/blob/main/Assets/Simons_Resume.pdf">
     <img src="https://img.icons8.com/plasticine/0.5x/resume.png" target= "_blank" alt="SimonsResume"/>
