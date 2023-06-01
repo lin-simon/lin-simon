@@ -8,9 +8,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=lin-simon&style=flat-square&color=blue" alt=""/> 
-</div>
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lin-simon&theme=dark"/></a>
 </p>
@@ -42,4 +39,7 @@
   <a href="https://github.com/lin-simon/lin-simon.github.io/blob/main/Assets/Simons_Resume.pdf">
     <img src="https://img.icons8.com/plasticine/0.5x/resume.png" target= "_blank" alt="SimonsResume" width="80" height="80"/>
   </a>
+</div>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=lin-simon&style=flat-square&color=blue" alt=""/> 
 </div>
