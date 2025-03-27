@@ -30,8 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-  
-<h1 align="center">
+[//]: <> (<h1 align="center">
   resume/cv:
 </h1>
 <div id="resume" align="center">
@@ -42,3 +41,4 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=lin-simon&style=flat-square&color=blue" alt=""/> 
 </div>
+)  
