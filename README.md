@@ -35,11 +35,7 @@
 <h1 align="center">
   resume/cv:
 </h1>
-<div id="resume" align="center">
-  <a href="https://github.com/lin-simon/lin-simon.github.io/blob/main/Assets/Simons_Resume.pdf">
-    <img src="https://img.icons8.com/plasticine/0.5x/resume.png" target= "_blank" alt="SimonsResume" width="80" height="80"/>
-  </a>
-</div>
+
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=lin-simon&style=flat-square&color=blue" alt=""/> 
 </div>
