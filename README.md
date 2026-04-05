@@ -8,9 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank" alt="LinkedIn Badge"/>
   </a>
 </div>
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lin-simon&theme=dark"/></a>
-</p>
+  
 <h1 align="center">
   my tech stack:
 </h1>
