@@ -10,7 +10,7 @@
 </div>
   
 <h1 align="center">
-  my tech stack:
+  some of my stack:
 </h1>
 
 <div align="center">
